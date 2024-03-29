@@ -23,3 +23,8 @@ C++の理解を深め、基本的な知識から応用的な知識まで身に�
 - 関数の値渡し、参照渡し、ポインタ渡し
 - ポインタ  
 etc...
+
+## ファイルの内容
+- 「ReversibleProject」 : ソースファイルが入っているフォルダー  
+　　　　　　　　　 「[MainGame.cpp](ReversibleProject/ReversibleProject/MainGame.cpp)」がソースコードになります。  
+- REAME : 制作の概要や進捗状況などが記載されている。
