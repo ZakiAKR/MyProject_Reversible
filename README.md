@@ -27,4 +27,4 @@ etc...
 ## ファイルの内容
 - 「ReversibleProject」 : ソースファイルが入っているフォルダー  
 　　　　　　　　　 「[MainGame.cpp](ReversibleProject/ReversibleProject/MainGame.cpp)」がソースコードになります。  
-- REAME : 制作の概要や進捗状況などが記載されている。
+- README : 制作の概要や進捗状況などが記載されている。
